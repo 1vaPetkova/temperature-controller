@@ -105,3 +105,49 @@ a {
     color-scheme: dark;
   }
 }
+
+.button {
+  background-color: red;
+  border: gold;
+  border-radius: 100%;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  margin-top: 5px;
+  margin-right: 5px;
+  margin-left: 5px;
+  text-decoration:dotted;
+  display: inline-block;
+  font-size: 30px;
+  text-align: center;
+}
+
+.display {
+  background-color: #cde4db;
+  border: gold;
+  border-radius: 100%;
+  line-height: 150px;
+  color: black;
+  text-align: center;
+  height: 150px;
+  width: 150px;
+  font-size: 30px;
+  text-align: center;
+  text-shadow:#00000040
+}
+
+.frame {
+  background-color: hotpink;
+  border: gold;
+  border-radius: 5px;
+  color: rgb(61, 11, 11);
+  padding: 20px;
+  text-align: center;
+  width: 200px;
+  height: 400px;
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-left: 100px;
+  text-decoration: none;
+  display: inline-block;
+}
